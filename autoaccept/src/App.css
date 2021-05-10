@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.site-header {
+    background: #fff;
+    border-top: 4px solid #00ae41;
+    box-shadow: 0 1px 2px rgb(0 0 0/7%);
+    height: 60px;
+    padding: 1rem 0;
+}
